@@ -1,0 +1,17 @@
+{
+  "name": "Bookmarks",
+  "version": "1.0.0",
+  "description": "Bookmarks practical project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NIbryamov",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^2.1.3",
+    "mustache": "^2.0.0",
+    "q": "^1.3.0",
+    "shimney-sammy": "^0.7.4"
+  }
+}

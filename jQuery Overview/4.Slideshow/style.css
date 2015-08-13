@@ -1,0 +1,40 @@
+#wrapper{
+    width: 1200px;
+    margin: 20px auto;
+    height: 500px;
+    text-align: center;
+}
+
+#wrapper div{
+    vertical-align: middle;
+}
+
+#leftNavigationButton, #rightNavigationButton, #images-container{
+    display: inline-block;
+}
+
+#leftNavigationButton, #rightNavigationButton {
+    width: 100px;
+}
+
+#images-container{
+    width: 800px;
+    height: 500px;
+}
+
+.image{
+    width: 800px;
+}
+
+img {
+    width: 800px;
+    height: 500px;
+}
+
+#image2, #image3, #image4 {
+    display: none;
+}
+
+button {
+    width: 80px;
+}

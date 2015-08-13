@@ -1,0 +1,22 @@
+#form{
+    display: inline-block;
+    vertical-align: top;
+}
+
+#birds{
+    display: inline-block;
+    vertical-align: top;
+}
+
+#inputClass, #inputColor{
+    margin-bottom: 15px;
+}
+
+#wrapper{
+    width: 500px;
+    margin: 50px auto;
+}
+
+ul{
+    margin: 0;
+}
